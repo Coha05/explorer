@@ -29,7 +29,7 @@ export const useGovStore = defineStore('govStore', {
     initial() {
       this.$reset();
       this.fetchParams();
-      this.fetchProposals('2');
+      this.fetchProposals('0');
     },
     async fetchProposals(status: string, pagination?: PageRequest) {
       //if (!this.loading[status]) {
@@ -46,7 +46,7 @@ export const useGovStore = defineStore('govStore', {
         });
       }
 
-      if (status === '2') {
+      if (status === '0') {
         proposals?.proposals?.forEach((item) => {
           this.fetchTally(item.proposal_id).then((res) => {
             item.final_tally_result = res?.tally;
