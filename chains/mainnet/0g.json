@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "0g",
-    "logo": "https://imgur.com/cgdmv8K.jpg",
+    "logo": "https://raw.githubusercontent.com/Coha05/explorer/255fd375baa0b1185f8d0596efb10ddb45130b3c/chains/0G_logo.png",
     "assets": [{
         "base": "ua0gi",
         "symbol": "A0GI",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://imgur.com/cgdmv8K.jpg"
+        "logo": "https://raw.githubusercontent.com/Coha05/explorer/255fd375baa0b1185f8d0596efb10ddb45130b3c/chains/0G_logo.png"
     }]
 }
