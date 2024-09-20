@@ -1,5 +1,5 @@
 {
-    "chain_name": "0g",
+    "chain_name": "Story",
     "api": ["https://api-story-testnet.trusted-point.com"],
     "rpc": ["https://story-cosmos-testnet-rpc.tech-coha05.xyz"],
     "coingecko": "",
