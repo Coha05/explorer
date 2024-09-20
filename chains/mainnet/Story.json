@@ -7,7 +7,7 @@
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "IP",
+    "addr_prefix": "story",
     "logo": "https://raw.githubusercontent.com/Coha05/explorer/refs/heads/master/chains/Story-logo.png",
     "assets": [{
         "base": "uIP",
