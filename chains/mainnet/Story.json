@@ -1,6 +1,6 @@
 {
     "chain_name": "Story",
-    "api": ["https://api-story-testnet.tech-coha05.xyz"],
+    "api": ["https://api-story-testnet.trusted-point.com"],
     "rpc": ["https://story-cosmos-testnet-rpc.tech-coha05.xyz"],
     "coingecko": "",
     "snapshot_provider": "",
