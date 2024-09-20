@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "IP",
-    "logo": "https://i.imgur.com/8ScEea9.png",
+    "logo": "https://raw.githubusercontent.com/Coha05/explorer/refs/heads/master/chains/Story-logo.png",
     "assets": [{
         "base": "uIP",
         "symbol": "IP",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://i.imgur.com/8ScEea9.png"
+        "logo": "https://raw.githubusercontent.com/Coha05/explorer/refs/heads/master/chains/Story-logo.png"
     }]
 }
