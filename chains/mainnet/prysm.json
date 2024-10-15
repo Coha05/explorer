@@ -1,0 +1,19 @@
+{
+    "chain_name": "Prysm",
+    "api": ["https://api-prysm.coha05.com"],
+    "rpc": ["https://rpc-prysm.coha05.com"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.8",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "prysm",
+    "logo": "https://raw.githubusercontent.com/Coha05/explorer/fe0570aea4578acaed04a19ea6e3d9701ffdb418/chains/prysm_logo.png",
+    "assets": [{
+        "base": "uprysm",
+        "symbol": "PRYSM",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://raw.githubusercontent.com/Coha05/explorer/fe0570aea4578acaed04a19ea6e3d9701ffdb418/chains/prysm_logo.png"
+    }]
+}
