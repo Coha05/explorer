@@ -1,18 +1,25 @@
 {
-    "chain_name": "Pell-Testnet",
-    "api": ["https://pell-testnet-api.spidernode.net"],
-    "rpc": ["https://pell-testnet-rpc.spidernode.net"],
+    "chain_name": "Pell",
+    "registry_name": "pell testnet",
+    "api": [{
+        "provider": "Spider Node",
+        "address": "https://pell-testnet-api.spidernode.net"
+    }],
+    "rpc": [{
+        "provider": "Spider Node",
+        "address": "https://pell-testnet-rpc.spidernode.net"
+    }],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.47.1",
+    "sdk_version": "0.47.3",
     "coin_type": "118",
-    "min_tx_fee": "500",
-    "addr_prefix": "PELL",
+    "min_tx_fee": "8000000",
+    "addr_prefix": "pell",
     "logo": "https://raw.githubusercontent.com/0xPellNetwork/pell_media_kit/refs/heads/main/logos/500r_bluewhite.png",
     "assets": [{
         "base": "apell",
         "symbol": "PELL",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "https://raw.githubusercontent.com/0xPellNetwork/pell_media_kit/refs/heads/main/logos/500r_bluewhite.png"
     }]
